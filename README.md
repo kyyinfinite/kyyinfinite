@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kyyinfinite/kyyinfinite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=kyyinfinite&style=flat-square&color=8B7CF6&label=Profile%20Views" alt="Profile Views"/>
 
-Here are some ideas to get you started:
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://githubcard.com/kyyinfinite.svg" width="100%" alt="kyyinfinite GitHub Statistics"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=kyyinfinite&layout=donut&langs_count=8&hide_border=false&border_radius=18&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&border_color=30363D&size_weight=0.5&count_weight=0.5" width="55%" alt="Programming Language Distribution"/>
+
+</div>
